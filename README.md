@@ -1,2 +1,1 @@
-# Mobile-Won-digi
-Praveen Wondigi
+# Welcome to WON Digi app 👋
